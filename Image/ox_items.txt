@@ -1,0 +1,8 @@
+['brick'] = {
+    label = 'Brick',
+    description = "It's a brick..",
+    weight = 500,
+    consume = 0
+},
+
+-- Install in ox_inventory/data/items.lua
